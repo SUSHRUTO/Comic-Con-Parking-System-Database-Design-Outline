@@ -163,14 +163,14 @@ Separate **Entry Logs** and **Exit Logs**:
 
 > Add your exported diagram below:
 
-![ER Diagram](./er-diagram/eraser.png)
+![ER Diagram](./ER_diagram_Comic-Con%20Parking%20System_img.png)
 
 ---
 
 ## 📂 Project Structure
 
 ```plaintext
-smart-parking-db-design/
+Task_4
 │
 ├── er-diagram/
 │   └── eraser.png
@@ -193,4 +193,4 @@ smart-parking-db-design/
 
 ## 🚀 Author
 
-**Your Name**
+**Sushruto Majumdar**
